@@ -22,5 +22,5 @@ This Chrome plugin is not endorsed or certified WhatsApp Inc. This is an unoffic
 - Select the folder click open & load the extension
 - Now open the extension from extenstion bar on the top right 
 
-<img href="images/Screenshot from 2020-07-08 12-25-41.png"/>
-<img href="images/Screenshot from 2020-07-08 12-25-49.png">
+<img src="images/Screenshot from 2020-07-08 12-25-41.png"/>
+<img src="images/Screenshot from 2020-07-08 12-25-49.png">
